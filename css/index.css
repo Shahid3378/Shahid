@@ -1,0 +1,21 @@
+*
+{
+    border: 1px solid black;
+}
+h1
+{
+    text-align: center;
+}
+.menu li
+{
+    display: inline;
+}
+#inl a
+{
+    display: block;
+}
+/* tag name,class */
+#data+div
+{
+    background-color: aqua;
+}
